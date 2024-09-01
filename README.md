@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  # Hi there, I'm Zhankeldiuly Rasul! 👋
+  <h1>Hi there, I'm Zhankeldiuly Rasul! 👋</h1>
 </div>
 
 - 🔭 I’m currently working on [Join - Way](https://join-way.com/)
