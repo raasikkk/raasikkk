@@ -11,8 +11,8 @@
 - ⚡ Quote **"The persistent will surpass the talented."**
 
 ## Connect with me:
-<a href="https://www.instagram.com/raasikkk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raasikkk&show_icons=true&theme=radical)
