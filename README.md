@@ -1,16 +1,13 @@
-## Hi there 👋
+<center>
+  ## Hi there, I'm Zhankeldiuly Rasul! 👋
+</center>
 
-<!--
-**raasikkk/raasikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Join - Way](https://join-way.com/)
+- 🌱 I’m currently learning WEB development (React)
+- 👨‍💻 My Web-site [Portfolio](https://portfolio.join-way.com/)
+- 👯 I’m looking to collaborate on open-source projects related to web development
+- 💬 Ask me about **JavaScript**, **React**, **HTML/CSS**, **Tailwind** 
+- 📫 How to reach me: [zhankeldiulyrasultop1@gmail.com]
+- ⚡ Quote **"The persistent will surpass the talented."**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raasikkk&show_icons=true&theme=radical)
