@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h1>Hi there, I'm Zhankeldiuly Rasul! 👋</h1>
-</div>
+<h1 align="center">Hi there, I'm Zhankeldiuly Rasul! 👋</h1>
 
 - 🔭 I’m currently working on [Join - Way](https://join-way.com/)
 - 🌱 I’m currently learning WEB development (React)
