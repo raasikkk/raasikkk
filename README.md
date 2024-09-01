@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Zhankeldiuly Rasul! 👋</h1>
 
-<h2 align="center">Software Engineer / Web Developer from Kazakhstan</h2>
+<div align="center" style="margin-bottom: 0;">
+  <h2>Software Engineer / Web Developer from Kazakhstan</h2>
+</div>
 
 - 🔭 I’m currently working on [Join - Way](https://join-way.com/)
 - 🌱 I’m currently learning WEB development (React)
