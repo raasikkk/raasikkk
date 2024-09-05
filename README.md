@@ -1,34 +1,29 @@
-<h1 align="center">Hi 👋, I'm joseph alc</h1>
-<h3 align="center">A passionate frontend developer from algeria</h3>
+<h1 align="center">Hi 👋, I'm Zhankeldiuly Rasul</h1>
+<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-alc&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-alc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/joseph alc" target="blank"><img src="https://img.shields.io/twitter/follow/joseph alc?logo=twitter&style=for-the-badge" alt="joseph alc" /></a> </p>
 
 - 🔭 I’m currently working on **Develop my skills**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **WEB development (React)**
 
-- 👯 I’m looking to collaborate **with other content creators**
+- 👯 I’m looking to collaborate **on open-source projects related to web development**
 
 - 🤝 2024 Goals **Learn more about Web3**
 
 - 💬 Ask me about **Frontend Web Development and software engineering**
 
-- 📫 How to reach me **infojosephalc@gmail.com**
+- 📫 How to reach me **zhankeldiulyrasultop1@gmail.com**
 
-- ⚡ Fun fact **i love drawing and inventing**
+- ⚡ Quote **"Your goals don't care about how you feel"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joseph_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseph alc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joseph_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph alc" height="30" width="40" /></a>
-<a href="https://instagram.com/alc.joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseph alc" height="30" width="40" /></a>
-        <a href="https://www.behance.net/joseph_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="joseph alc" height="30" width="40" /></a>
-<a href="https://discord.gg/joseph_alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joseph alc" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raasikkk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raasikkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raasikkk" height="30" width="40" /></a>
+        <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raasikkk" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joseph alc" height="30" width="40" /></a>
 </p>
 <!--- trophy (start) -->
 
@@ -42,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,express,figma,firebase,github,html,js,linux,mongodb,mysql,nodejs,postman,py,react,tailwind,bootstrapvscode,blender&perline=14" />
   </a>
 </p>
 
