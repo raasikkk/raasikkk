@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
-
+<br><br>
 
 - 🔭 I’m currently working on **Develop my skills**
 
