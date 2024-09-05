@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
 <br>
 
-- 🔭 I’m currently working on **Develop my skills**
+- 🔭 I’m currently working on **Developing my skills**
 
 - 🌱 I’m currently learning **WEB development (React)**
 
@@ -66,7 +66,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="https://github.com/raasikkk/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
