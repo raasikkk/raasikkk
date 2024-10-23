@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhankeldiuly Rasul</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan</h3> 
+<h3 align="center">A passionate fullstack developer from Kazakhstan</h3> 
 
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
 <br>
@@ -35,11 +35,9 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,sass,postgres,express,figma,firebase,github,linux,mongodb,mysql,nodejs,django,postman,py,react,vite,tailwind,bootstrap,vscode,blender,netlify,vercel,ai&perline=14" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+<br/>
 
 
 
