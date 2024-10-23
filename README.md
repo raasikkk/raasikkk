@@ -22,8 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rasul-zhankeldiuly-659a0630a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raasikkk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raasikkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raasikkk" height="30" width="40" /></a>
-        <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raasikkk" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joseph alc" height="30" width="40" /></a>
+        
 </p>
 <!--- trophy (start) -->
 
