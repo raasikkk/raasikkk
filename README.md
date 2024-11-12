@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zhankeldiuly Rasul</h1>
+<h1 align="center">Hi 👋, I'm Zhankeldyuly Rasul</h1>
 <h3 align="center">A passionate fullstack developer from Kazakhstan</h3> 
 
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
@@ -54,7 +54,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raasikkk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=13"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raasikkk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=16"/>
   
   </td>
 </tr>
