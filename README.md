@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Developing my skills**
 
-- 🌱 I’m currently learning **WEB development (React)**
+- 🌱 I’m currently learning **WEB development (Node/Express.js)**
 
 - 👯 I’m looking to collaborate **on open-source projects related to web development**
 
-- 🤝 2024 Goals **Learn more about Web3**
+- 🤝 2025 Goals **Learn more about Web3**
 
 - 💬 Ask me about **Frontend Web Development and software engineering**
 
