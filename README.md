@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Developing my skills**
 
-- 🌱 I’m currently learning **WEB development (Node/Express.js)**
+- 🌱 I’m currently learning **WEB development (Python/Django)**
 
 - 👯 I’m looking to collaborate **on open-source projects related to web development**
 
