@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Developing my skills**
 
-- 🌱 I’m currently learning **WEB development (React/Next)**
+- 🌱 I’m currently learning **WEB development (Vue)**
 
 - 👯 I’m looking to collaborate **on open-source projects related to web development**
 
