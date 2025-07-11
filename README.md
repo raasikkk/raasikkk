@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
 <br>
 
-- 🔭 I’m currently working on **Developing my skills**
+- 🔭 I’m currently working on **Robosoft LLP**
 
 - 🌱 I’m currently learning **WEB development (Vue)**
 
