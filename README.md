@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zhankeldyuly Rasul</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Zhankeldyuly Rasul</h1>
 <h3 align="center">A passionate fullstack developer from Kazakhstan</h3>  
+
+<p align="center">
+  <a href="https://github.com/kaimatsuda29"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=%20Full%20Stack%20Engineer;Frontend%20Developer;Backend%20Developer&font=Pacifico&center=true&width=650&height=120&color=27ff00&vCenter=true&size=45%22"></a>
+</p>
 
 <p><img align="right" src="https://github.com/raasikkk/raasikkk/blob/main/animation_500_kxa883sd.gif" alt="raasikkk-gif" /></p>
 <br>
